@@ -1,0 +1,8 @@
+com/satvig/sboot/web/MvcConfig.java
+ com.satvig.sboot.web.MvcConfig
+com/satvig/sboot/api/HelloController.java
+ com.satvig.sboot.api.HelloController
+com/satvig/sboot/api/ServletInitializer.java
+ com.satvig.sboot.api.ServletInitializer
+com/satvig/sboot/api/SatvigSbootApiApplication.java
+ com.satvig.sboot.api.SatvigSbootApiApplication

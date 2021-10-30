@@ -1,0 +1,6 @@
+com/satvig/sboot/api/HelloControllerTest.java
+ com.satvig.sboot.api.HelloControllerTest
+com/satvig/sboot/api/SatvigSbootApiApplicationTests.java
+ com.satvig.sboot.api.SatvigSbootApiApplicationTests
+com/satvig/sboot/api/HelloControllerIT.java
+ com.satvig.sboot.api.HelloControllerIT
